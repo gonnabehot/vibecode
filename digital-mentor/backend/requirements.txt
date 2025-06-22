@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+psycopg[binary]
+langchain
+pgvector
+sentence-transformers
+python-jose
+passlib[bcrypt]
+fastapi-limiter
+celery
+redis
+pytest
+httpx<0.25
+python-multipart
